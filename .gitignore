@@ -1,0 +1,8 @@
+machines/cmake_macros/gnu_hortense.cmake
+machines/cmake_macros/gnu_hydra.cmake
+machines/config_batch.xml.orig
+machines/hortense/
+machines/hydra/
+
+
+
