@@ -189,8 +189,8 @@
       <arg flag="-A" name="$PROJECT"/>
     </submit_args>
     <queues>
-      <queue walltimemin="00:15:00" walltimemax="72:00:00" nodemax="256" default="true">cpu_milan</queue>
-      <queue walltimemin="00:15:00" walltimemax="72:00:00" nodemax="42">cpu_milan</queue>
+      <queue walltimemin="00:15:00" walltimemax="72:00:00" nodemax="256" default="true">cpu_milan_rhel9</queue>
+      <queue walltimemin="00:15:00" walltimemax="72:00:00" nodemax="42">cpu_milan_rhel9</queue>
       <!-- hist_fincl4 = daily output, 1D vector to distinguish land-units or veg types -->
     </queues>
   </batch_system>
